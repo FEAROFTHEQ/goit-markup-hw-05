@@ -658,6 +658,10 @@ margin-bottom: 16px;
 }
 
 .form-element-container{
+    margin-bottom: 8px;
+}
+
+.element-container{
     margin-bottom: 16px;
 }
 
